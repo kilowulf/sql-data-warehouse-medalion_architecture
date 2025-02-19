@@ -31,5 +31,6 @@ SQL server based Data warehouse  with full Extract, Transform, and Load (ETL) pr
 
 
 
+![HLA Data warehouse project](https://github.com/user-attachments/assets/bfdacd28-2e8e-4168-8068-14b0b4bea9cb)
 
-![HLA Data warehouse project](https://github.com/user-attachments/assets/70957331-d094-4065-a184-fc975ec87a35)
+
